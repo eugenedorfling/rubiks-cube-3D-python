@@ -1,0 +1,4 @@
+cffi==1.17.1
+numpy==2.1.2
+pycparser==2.22
+raylib==5.0.0.4
